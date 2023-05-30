@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".HomeFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Deskripsi \n\nAplikasi ini dibuat untuk memenuhi \ntugas pengganti UTS Mata Kuliah \nAplikasi Komputasi Bergerak \ndan diharapkannya aplikasi ini bisa membantu  \nanda untuk menuliskan catatan baru "
+        android:textColor="#4a4a4a"
+        android:textSize="16dp"
+        android:gravity="center"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium" />
+
+</FrameLayout>

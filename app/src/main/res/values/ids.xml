@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="bottom_nav" type="id" />
+    <item name="home" type="id" />
+    <item name="contact" type="id" />
+    <item name="profile" type="id" />
+    <item name="frame" type="id" />
+    <item name="add" type="id" />
+</resources>
